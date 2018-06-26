@@ -155,7 +155,6 @@ Your Server IP Address is ==> '$IP'!
 Your Hostname '$hostname_i' point to IP Address ==> '$IP_hostname'!
 
 Please point your Domain DNS A record '$hostname_i' to '$IP' and try again!'
-exit 0
 fi
 
 echo 'Hostname => '$hostname_i''
